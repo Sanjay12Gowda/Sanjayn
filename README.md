@@ -31,8 +31,7 @@
 <body>
     <h1>Happy Gowri Ganesha Festival!</h1>
     <p>May Goddess Gowri and Lord Ganesha bless you with peace, prosperity, and happiness.</p>
-    <img src="IMAGE_URL" alt="Ganesha Festival Image" style="width:300px;height:auto;">
- alt="Ganesha Image">
-</body>
+    <img src="https://share.google/kasWBIeddUOMv3GlF
+</body>"
 </html>
 
