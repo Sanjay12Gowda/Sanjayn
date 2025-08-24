@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gowri Ganesha Festival Wishes</title>
+  <style>
+    body {
+      background: url('your-image.jpg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Noto Sans Kannada', sans-serif;
+      color: #fff;
+      text-align: center;
+      padding: 50px;
+    }
+    .wish {
+      background: rgba(0,0,0,0.6);
+      display: inline-block;
+      margin: 10px;
+      padding: 20px;
+      border-radius: 10px;
+      font-size: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <div class="wish">ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು! ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಶಾಂತಿ, ಸಂತೋಷ, ಮತ್ತು ಸಮೃದ್ಧಿ ಸ್ಥಾನವಾಗಲಿ.</div>
+  <div class="wish">Gowri Ganesha Habba Mahotsava – May divine blessings fill your life with joy and wisdom.</div>
+</body>
+</html>
