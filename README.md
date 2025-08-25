@@ -34,8 +34,6 @@
     <div style="text-align: center;">
   <h2>🎉 Jai Ganesha 🌈</h2>
   <p>May your life be filled with colors of happiness and love.</p>
-  <div>
-      <img src="https://github.com/Sanjay12Gowda/Sanjayn/blob/main/image_search_1501412525321.jpg" alt="Ganesha Festival" style="width: 60%; max-width: 400px; border-radius: 10px;">
-   </div>
+<img src="https://github.com/Sanjay12Gowda/Sanjayn/blob/main/image_search_1501412525321.jpg" alt="Ganesha Festival" style="width: 60%; max-width: 400px; border-radius: 10px;">
 </body>
 </html>
